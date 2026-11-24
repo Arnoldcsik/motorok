@@ -1,0 +1,8 @@
+{
+  "movies": [
+    { "id": 1, "title": "Csillagok között", "director": "Christopher Nolan", "poster": "https://picsum.photos/seed/film1/300/420", "year": 2014, "rating": 8.7, "summary": "Egy csapat űrhajós féregjáraton át új otthont keres az emberiségnek.", "internalCode": "MV-001" },
+    { "id": 2, "title": "A Mátrix", "director": "Lana és Lilly Wachowski", "poster": "https://picsum.photos/seed/film2/300/420", "year": 1999, "rating": 8.7, "summary": "Egy hacker rájön, hogy a valóság, amit ismer, szimuláció.", "internalCode": "MV-002" },
+    { "id": 3, "title": "Gladiátor", "director": "Ridley Scott", "poster": "https://picsum.photos/seed/film3/300/420", "year": 2000, "rating": 8.5, "summary": "Egy római tábornok rabszolgából válik az aréna hősévé.", "internalCode": "MV-003" },
+    { "id": 4, "title": "Forrest Gump", "director": "Robert Zemeckis", "poster": "https://picsum.photos/seed/film4/300/420", "year": 1994, "rating": 8.8, "summary": "Egy egyszerű lelkű férfi szemével látjuk az amerikai történelmet.", "internalCode": "MV-004" }
+  ]
+}

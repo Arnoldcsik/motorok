@@ -1,0 +1,7 @@
+{
+  "recipes": [
+    { "id": "r-101", "title": "Gulyásleves", "image": "https://picsum.photos/seed/rec1/400/260", "difficulty": "medium", "timeMinutes": 90, "vegetarian": false, "author": { "name": "Kovács Mari", "email": "mari@example.com" }, "ingredients": [ { "name": "marhahús", "amount": 500, "unit": "g" }, { "name": "burgonya", "amount": 4, "unit": "db" }, { "name": "pirospaprika", "amount": 2, "unit": "evőkanál" } ], "steps": ["Pirítsd meg a hagymát.", "Add hozzá a húst és a paprikát.", "Önts fel vízzel, főzd puhára."] },
+    { "id": "r-102", "title": "Rántotta", "difficulty": "easy", "timeMinutes": 10, "vegetarian": true, "author": { "name": "Szabó Gergő", "email": "gergo@example.com" }, "ingredients": [ { "name": "tojás", "amount": 3, "unit": "db" }, { "name": "só", "amount": 1, "unit": "csipet" } ], "steps": ["Verd fel a tojásokat.", "Süsd forró serpenyőben."] },
+    { "id": "r-103", "title": "Töltött káposzta", "image": "https://picsum.photos/seed/rec3/400/260", "difficulty": "hard", "vegetarian": false, "author": { "name": "Kovács Mari", "email": "mari@example.com" }, "ingredients": [ { "name": "savanyú káposzta", "amount": 1, "unit": "kg" }, { "name": "darált hús", "amount": 600, "unit": "g" } ], "steps": ["Készítsd el a tölteléket.", "Tekerd a levelekbe.", "Főzd lassan két órán át."] }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "cities": [
+    { "id": 1, "name": "Szeged", "photo": "https://picsum.photos/seed/city1/400/260", "location": { "country": "Magyarország", "continent": "Európa" }, "population": 160000, "nextFestival": "2027-06-18", "attractions": [ { "name": "Dóm tér", "free": true }, { "name": "Szegedi Vadaspark", "free": false } ], "website": "https://www.szeged.hu", "nickname": "A napfény városa" },
+    { "id": 2, "name": "Pécs", "photo": "https://picsum.photos/seed/city2/400/260", "location": { "country": "Magyarország", "continent": "Európa" }, "population": 140000, "nextFestival": "2027-09-03", "attractions": [ { "name": "Dzsámi", "free": false }, { "name": "Káptalan utca", "free": true } ], "website": null },
+    { "id": 3, "name": "Győr", "photo": "https://picsum.photos/seed/city3/400/260", "location": { "country": "Magyarország", "continent": "Európa" }, "population": 130000, "nextFestival": "2027-07-10", "attractions": [], "website": "https://www.gyor.hu" },
+    { "id": 4, "name": "Eger", "photo": "https://picsum.photos/seed/city4/400/260", "location": { "country": "Magyarország", "continent": "Európa" }, "population": 52000, "nextFestival": "2027-08-21", "attractions": [ { "name": "Egri vár", "free": false }, { "name": "Minaret", "free": false }, { "name": "Szépasszony-völgy", "free": true } ], "website": null, "nickname": "A borok és a vár városa" }
+  ]
+}

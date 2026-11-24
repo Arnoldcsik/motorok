@@ -1,0 +1,7 @@
+{
+  "books": [
+    { "id": 1, "title": "Az alkimista", "author": "Paulo Coelho", "cover": "https://covers.openlibrary.org/b/isbn/0061122416-M.jpg", "description": "Egy fiatal pásztorfiú spirituális utazása az álmai beteljesítéséhez – egy modern mese az élet értelméről." },
+    { "id": 2, "title": "A Gyűrűk Ura", "author": "J.R.R. Tolkien", "cover": "https://covers.openlibrary.org/b/isbn/0618640150-M.jpg", "description": "Egy epikus fantasy történet a Jó és a Gonosz harcáról Középfölde világában – legendás kaland és barátság története." },
+    { "id": 3, "title": "1984", "author": "George Orwell", "cover": "https://covers.openlibrary.org/b/isbn/0451524934-M.jpg", "description": "Egy disztópikus regény a totális megfigyelés és elnyomás világáról – figyelmeztetés a jövő számára." }
+  ]
+}
